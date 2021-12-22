@@ -241,5 +241,4 @@ for new_user in new_users:
         print(new_user.title() + " Will have to use a new username\n.")
     else:
         print(new_user.title() + " that username is available.\n")
-
-# hi 
+#hi 
