@@ -47,3 +47,15 @@ for magician in magicans: #: don't forget the colon
 # (!=) - not equal
 
 # A Boolean value is either True or False, just like the value of a conditional expression after it has been evaluated
+
+# A dictionary in Python is a collection of key-value pairs. 
+# Each key is connected to a value, and you can use a key to access the value associated with that key.
+
+# A set is similar to a list except that each item in the set must be unique
+
+# Keys are the first part in a dictionary 
+# Values are the second part in a dictionary 
+
+# Nesting - storing a set of dictionaries in a list or a list of items as a value in a dictionary
+
+# "\t" to indent 
