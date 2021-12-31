@@ -59,3 +59,5 @@ for magician in magicans: #: don't forget the colon
 # Nesting - storing a set of dictionaries in a list or a list of items as a value in a dictionary
 
 # "\t" to indent 
+
+# break statement will exit a while loop immediately without running any code 
