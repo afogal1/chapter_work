@@ -61,3 +61,10 @@ for magician in magicans: #: don't forget the colon
 # "\t" to indent 
 
 # break statement will exit a while loop immediately without running any code 
+
+# Chapter 7:
+# functions: which are named blocks of code that are designed to do one specific job.
+# parameter: a piece of information the function needs to do its job
+# argument: is a piece of information that is passed from a function call to a function
+
+# return values: takes a value from inside a function and sends it back to the line that called the function
